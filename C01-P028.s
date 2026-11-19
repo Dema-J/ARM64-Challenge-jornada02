@@ -3,7 +3,7 @@
 // Asignatura: Lenguajes de Interfaz
 // Ejercicio: C01-P028 - Cambio en billetes y monedas (L3)
 // Fecha: 2026-11-17
-// Asciinema: 
+// Asciinema: https://gist.github.com/Moguel-04/6b23808aa6c15bd9535cec0f43e91b49
 
 // Solución en alto nivel:
 //   void cambio(int64_t monto, int64_t *out) {
