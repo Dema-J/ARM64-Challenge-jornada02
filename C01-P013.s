@@ -3,7 +3,7 @@
 // Asignatura: Lenguajes de Interfaz
 // Ejercicio: C01-P013 - Segundo mayor (L3)
 // Fecha: 2026-11-17
-// Asciinema: 
+// Asciinema: https://gist.github.com/Moguel-04/6b23808aa6c15bd9535cec0f43e91b49
 
 // Solución en alto nivel:
 //   int64_t segundo_mayor(const int64_t *a, int64_t n) {
