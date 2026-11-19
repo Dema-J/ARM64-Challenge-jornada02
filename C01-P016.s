@@ -3,7 +3,7 @@
 // Asignatura: Lenguajes de Interfaz
 // Ejercicio: C01-P016 - Tabla de multiplicar (L3)
 // Fecha: 2026-11-17
-// Asciinema: 
+// Asciinema: https://gist.github.com/Moguel-04/6b23808aa6c15bd9535cec0f43e91b49
 
 // Solución en alto nivel:
 //   void tabla_multiplicar(int64_t n, int64_t *buf) {
